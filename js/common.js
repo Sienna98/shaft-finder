@@ -7,7 +7,7 @@ function dimIn(){
     setTimeout(()=>{
         dim.style.opacity = 1;
     },300);
-}
+} 
 
 menuBtn.addEventListener('click',e=>{
     e.preventDefault();
